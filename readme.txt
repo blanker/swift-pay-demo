@@ -6,3 +6,5 @@
 
 2.本项目没有记录文件或者数据库日志，只是记录在容器日志里面，如有需要可以将System.out.println类似的地方改写成log文件或者数据库
 3.本项目的订单数据没有记录到数据库中，只是在内存中设置了一个map（具体可以见TestPayServlet.java中的orerResult）,这里如果有需要可以将订单数据存储到数据库
+
+https://open.swiftpass.cn/openapi/wiki?index=1&chapter=1
